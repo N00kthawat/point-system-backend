@@ -1,0 +1,26 @@
+[
+  {
+    "id_user": 1,
+    "username": "nook",
+    "password": "12345",
+    "user_fullname": "Nookthawat",
+    "userpoint": 1500,
+    "redeemedProducts": [
+    ]
+  },
+  {
+    "id_user": 2,
+    "username": "meng",
+    "password": "11223344",
+    "user_fullname": "Thodo TJ",
+    "userpoint": 1500,
+    "redeemedProducts": []
+  },
+  {
+    "id_user": 3,
+    "username": "msu",
+    "password": "123456789",
+    "user_fullname": "MSU CS",
+    "userpoint": 1500
+  }
+]
